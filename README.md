@@ -3,7 +3,7 @@
 - **学校**：吉林大学 本科（2022.9-2026.7）
 - **专业**：理科试验班（唐敖庆班，计算机）
 - **邮箱**：zhangsy5522@mails.jlu.edu.cn
-- **电话**：(+86) 15093317903（同微信）
+- **微信**：this1ssr
 - **GitHub**：[github.com/joki-sr](github.com/joki-sr)
 - **Gitee**：[gitee.com/joki-sr](gitee.com/joki-sr)
 - **博客**：[https://www.cnblogs.com/joki-sr](https://www.cnblogs.com/joki-sr)
